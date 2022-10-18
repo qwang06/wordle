@@ -1,0 +1,27 @@
+{
+  "name": "wordle",
+  "version": "1.0.0",
+  "description": "Wordle example using React",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "lint": "next lint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chakra-ui/react": "^2.3.2",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "framer-motion": "^6.5.1",
+    "next": "^12.3.0",
+    "next-auth": "^4.10.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-config-next": "^12.3.0",
+    "eslint-plugin-react": "^7.31.8"
+  }
+}
